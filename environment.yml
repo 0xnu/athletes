@@ -1,0 +1,9 @@
+name: athletes-environment
+channels:
+  - conda-forge
+dependencies:
+  - dash
+  - numpy
+  - pandas
+  - plotly
+  - beautifulsoup4
